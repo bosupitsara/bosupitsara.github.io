@@ -1,5 +1,15 @@
 title: Supitsara Kruaongarjnukool
-author: bosupitsara
- # name: Test Name
- # email: bo.supitsara@gmail.com
+author: 
+  name: bosupitsara
+  email: bo.supitsara@gmail.com
+description: Get in touch
 remote_theme: jekyll/minima
+header_pages:
+  - about.md
+  - skills.md
+  - achievement.md
+  - contact.md
+minima: 
+ skin: solarized
+social_links:
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/supitsara-kruaongarjnukool/" }

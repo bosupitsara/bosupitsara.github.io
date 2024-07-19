@@ -5,10 +5,8 @@ author:
 description: Get in touch
 remote_theme: jekyll/minima
 header_pages:
-  - about.md
-  - skills.md
-  - achievement.md
-  - contact.md
+  - README.md#Skills
+  - README.md#Journey
 minima: 
  skin: classic
 social_links:

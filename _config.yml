@@ -10,6 +10,6 @@ header_pages:
   - achievement.md
   - contact.md
 minima: 
- skin: solarized
+ skin: classic
 social_links:
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/supitsara-kruaongarjnukool/" }

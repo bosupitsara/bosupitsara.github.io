@@ -49,35 +49,34 @@ print df.groupby(('skill'))['item'].sum()
 </table>
 
 ## Journey
-### 2016 : First job, first love _at Agoda.com_
+### 2016 : Where It All Began: Digital Marketing & Data-Driven Growth _at Agoda.com_
 
-I started my exciting journey at a leading technology company as a digital marketing analyst, focusing on online advertising and optimization. I quickly became an expert in Facebook Ads, Google Ads, Google Analytics, and Appsflyer. Within 2 year, I was promoted twice. My focus shifted to ad measurement, where I analyzed the effectiveness of display ads and leveraged insights to scale ad spend effectively. I initiated a healthy work-life-balance, enjoyed running and playing badminton after office hours.
-<br>
-<br>
-
-### 2019 : First time leading the team
-I drove significant growth by scaling digital marketing channels and reducing costs. I was deeply involved in collaborative projects between business and product teams. Expanding beyond the team's scope, I consulted a subsidiary in launching digital ads, conducted detailed business research for a new loyalty program. I enjoyed going for a boxing class after work.
+I started my career at a leading technology company as a Digital Marketing Analyst, specializing in online advertising and optimization. I quickly became proficient in Facebook Ads, Google Ads, Google Analytics, and Appsflyer. Within two years, I earned two promotions, shifting my focus to ad measurement—analyzing display ad effectiveness and leveraging insights to scale ad spend efficiently. During this time, I also embraced a healthy work-life balance, enjoying running and badminton after office hours.
 <br>
 <br>
 
-### 2020 : Moving from ROI to Margin and Revenue
-Transition from advertising to a pricing team, from traffic optimization to optimizing profit margin, it's a big step! With exposure to merchandising, including room rates and pricing, I analyzed large datasets and developed many business cases, generating incremental revenue and creating business impact beyond a pricing scope. On the weekend during covid time, I started my small Kimchi business, running for both operation and marketing. 
+### 2019 : Stepping into Leadership
+For the first time, I led a team, driving significant growth by scaling digital marketing channels and optimizing costs. I played a pivotal role in cross-functional collaborations between business and product teams. Expanding beyond my core responsibilities, I advised a subsidiary on digital advertising strategies and conducted in-depth business research for a new loyalty program. To balance work and wellness, I picked up boxing after hours.
 <br>
 <br>
 
-### 2022 : Ecommerce - GMV and CIR Era _at NocNoc.com_
-My journey took me to a growing home and living e-commerce startup, where I leveraged business and analytics expertise to provide strategic insights for key decisions. I led initiatives that drove sales, built fundamental of the business and helped bring people’s dreams to life. Outside of work, I enjoyed exploring food and coffee places and practicing golf.
+### 2020 : From ROI to Profitability
+Transitioning from advertising to pricing strategy was a major leap—from optimizing traffic to maximizing profit margins. I gained exposure to merchandising, room rate strategies, and dynamic pricing, analyzing large datasets to develop impactful business cases that drove incremental revenue beyond traditional pricing scopes. During the pandemic, I launched a small homemade kimchi business, handling end to end from production, operations and marketing.
 <br>
 <br>
 
-### 2024 : What's next?
-Seeking a challenging role in a dynamic organization to leverage my analytical thinking, design and technical proficiency, marketing expertise, project management and team leadership skills. Passionate about innovation and committed to driving business growth and operational excellence.
+### 2022 :The E-Commerce Era _at NocNoc.com_
+I joined a fast-growing home and living e-commerce startup, applying my business and analytics expertise to drive strategic decision-making. I led initiatives that boosted sales, built fundamental business strategies, and contributed to making customers' dream homes a reality. Outside of work, I explored new food and coffee spots and practiced golf.
+<br>
+<br>
+
+### 2024 : The Measurement Partner Role at TikTok
+Joining TikTok as a Measurement Partner, I help advertisers unlock the true value of their marketing investments through advanced measurement solutions, data-driven insights and experimental design. I work closely with clients to interpret Brand Lift and Conversion Lift studies, providing strategic recommendations to optimize budget allocation, improve campaign performance and drive business growth. Beyond work, I continue to explore new places, coffee and food experiences while honing my skills in Pilates and golf.
 <br>
 <br>
 
 ## Education
-#### _Bachelor of Information and Communication Engineering, International School of Engineering (ISE), Chulalongkorn University_
-Top Tier University of Thailand
+#### _Bachelor of Information and Communication Engineering, International School of Engineering (ISE), Chulalongkorn University_ (Top Tier University of Thailand)
 
 ## Analytics Projects
 Automated Report & Campaign, User Behavioral on Ads, Customer Segmentation, Supply Readiness (Price Competitiveness & Stock), Metrics Framework
